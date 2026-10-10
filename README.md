@@ -68,7 +68,5 @@ ChatGPT was used for guidance and documentation support during the challenges. T
 
 Conclusion
 
-This CTF exercise provided practical exposure to web inspection, encoding, metadata analysis, and file investigation.
-
 
 This CTF exercise provided practical exposure to web inspection, encoding, metadata analysis, and file investigation

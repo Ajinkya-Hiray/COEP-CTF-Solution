@@ -65,7 +65,9 @@ Learning Outcome: Learned the importance of verifying file contents instead of r
 AI Tools Used
  
 ChatGPT was used for guidance and documentation support during the challenges. The solution steps should reflect the work actually performed.
+
 Conclusion
+
 This CTF exercise provided practical exposure to web inspection, encoding, metadata analysis, and file investigation.
 
 
